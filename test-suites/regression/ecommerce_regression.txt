@@ -1,0 +1,11 @@
+click "Products"
+
+click "Laptop"
+
+click "Add to Cart"
+
+click "Cart"
+
+click "Checkout"
+
+check that page contains "Order Confirmed"

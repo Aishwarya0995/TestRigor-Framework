@@ -1,0 +1,3 @@
+compare screen with saved baseline
+
+check that page does not contain visual differences

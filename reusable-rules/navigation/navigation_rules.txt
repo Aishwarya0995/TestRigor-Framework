@@ -1,0 +1,3 @@
+rule: Navigate to Products
+
+click "Products"

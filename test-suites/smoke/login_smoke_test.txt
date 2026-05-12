@@ -1,0 +1,7 @@
+enter "standard_user" into "Username"
+
+enter "password123" into "Password"
+
+click "Login"
+
+check that page contains "Dashboard"

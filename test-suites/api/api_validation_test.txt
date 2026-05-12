@@ -1,0 +1,5 @@
+make a GET request to "https://reqres.in/api/users/2"
+
+check that response status code is 200
+
+check that JSON response contains "email"

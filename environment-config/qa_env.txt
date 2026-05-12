@@ -1,0 +1,2 @@
+base_url=https://qa.company.com
+browser=chrome
