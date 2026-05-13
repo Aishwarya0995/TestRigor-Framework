@@ -1,0 +1,31 @@
+enter "standard_user" into "Username"
+
+enter "secret_sauce" into "Password"
+
+click "Login"
+
+click "Add to cart" below "Sauce Labs Backpack"
+
+click "Add to cart" below "Sauce Labs Bike Light"
+
+click "Shopping Cart"
+
+check that page contains "Sauce Labs Backpack"
+
+check that page contains "Sauce Labs Bike Light"
+
+click "Checkout"
+
+enter "Aishwarya" into "First Name"
+
+enter "Wagh" into "Last Name"
+
+enter "410206" into "Zip/Postal Code"
+
+click "Continue"
+
+check that page contains "Payment Information"
+
+click "Finish"
+
+check that page contains "Thank you for your order"
