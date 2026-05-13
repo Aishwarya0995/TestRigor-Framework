@@ -1,7 +1,7 @@
 enter "standard_user" into "Username"
 
-enter "password123" into "Password"
+enter "secret_sauce" into "Password"
 
 click "Login"
 
-check that page contains "Dashboard"
+check that page contains "Products"
