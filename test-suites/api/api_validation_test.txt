@@ -1,5 +1,5 @@
-make a GET request to "https://reqres.in/api/users/2"
+make a GET request to "https://fakestoreapi.com/products"
 
 check that response status code is 200
 
-check that JSON response contains "email"
+check that JSON response contains "title"
