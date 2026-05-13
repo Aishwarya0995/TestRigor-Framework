@@ -1,0 +1,3 @@
+rule: Add Backpack To Cart
+
+click "Add to cart" below "Sauce Labs Backpack"
