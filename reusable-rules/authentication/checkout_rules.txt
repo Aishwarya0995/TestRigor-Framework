@@ -1,0 +1,15 @@
+rule: Complete Checkout
+
+click "Shopping Cart"
+
+click "Checkout"
+
+enter "Aishwarya" into "First Name"
+
+enter "Wagh" into "Last Name"
+
+enter "410206" into "Zip/Postal Code"
+
+click "Continue"
+
+click "Finish"
