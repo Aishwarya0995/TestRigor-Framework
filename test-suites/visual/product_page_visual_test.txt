@@ -1,0 +1,7 @@
+enter "standard_user" into "Username"
+
+enter "secret_sauce" into "Password"
+
+click "Login"
+
+compare screen with saved baseline
