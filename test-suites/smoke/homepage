@@ -1,0 +1,9 @@
+enter "standard_user" into "Username"
+
+enter "secret_sauce" into "Password"
+
+click "Login"
+
+check that page contains "Sauce Labs Backpack"
+
+check that page contains "Sauce Labs Bike Light"
