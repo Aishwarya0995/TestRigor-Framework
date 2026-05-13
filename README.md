@@ -1,17 +1,31 @@
-# testRigor Automation Framework
+# SauceDemo testRigor Automation Framework
+moke Testing
+- Regression Testing
+- Visual Validation
+- Reusable Rules
+- Data-Driven Testing
+- CI/CD Ready
+- GitHub Ready
 
-Enterprise-level UI automation framework using testRigor.
+## Tech Stack
+
+- testRigor
+- GitHub
+- GitHub Actions
+
+## Test Coverage
+
+- Login Validation
+- Product Validat
+UI automation framework built using testRigor for SauceDemo website.
+
+## Website Under Test
+https://www.saucedemo.com
 
 ## Features
 
-- UI Automation
-- API Validation
-- Reusable Rules
-- Visual Testing
-- Data-Driven Testing
-- Environment Configurations
-- CI/CD Integration
-
-## Author
-
-Aishwarya Wagh
+- Sion
+- Add To Cart
+- Checkout Flow
+- Logout Flow
+- UI Validation
