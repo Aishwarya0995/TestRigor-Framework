@@ -4,4 +4,6 @@ enter "secret_sauce" into "Password"
 
 click "Login"
 
+check that page contains "Products"
+
 compare screen with saved baseline
