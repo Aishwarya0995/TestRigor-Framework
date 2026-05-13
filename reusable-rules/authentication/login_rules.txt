@@ -1,7 +1,7 @@
-rule: Login as standard user
+rule: Login to SauceDemo
 
-enter stored value "username" into "Username"
+enter "standard_user" into "Username"
 
-enter stored value "password" into "Password"
+enter "secret_sauce" into "Password"
 
 click "Login"
